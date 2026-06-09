@@ -113,25 +113,6 @@ Generated Short URL:
 http://localhost:8001/url/abc123
 ```
 
-## Learning Outcomes
-
-* Express Routing
-* MongoDB CRUD Operations
-* Mongoose Models
-* Middleware Usage
-* Authentication and Authorization
-* Cookie Handling
-* EJS Templating
-* MVC Architecture
-
-## Future Improvements
-
-* Password Hashing using bcrypt
-* Custom Short URLs
-* URL Expiration
-* User Profile Management
-* Search and Filter URLs
-* Deployment on Render/Railway
 
 ## Author
 
